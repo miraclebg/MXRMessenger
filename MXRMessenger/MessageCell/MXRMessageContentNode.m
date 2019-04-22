@@ -23,7 +23,7 @@
 }
 
 - (instancetype)init {
-    ASDISPLAYNODE_NOT_DESIGNATED_INITIALIZER();
+//    ASDISPLAYNODE_NOT_DESIGNATED_INITIALIZER();
     return [self initWithConfiguration:nil];
 }
 
